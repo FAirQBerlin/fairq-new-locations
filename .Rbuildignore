@@ -1,0 +1,10 @@
+^.+\.Rproj$
+^\.Rproj\.user$
+^RScripts$
+^reports$
+^Dockerfile$
+^Jenkinsfile$
+^\.Renviron_template$
+^\.dockerignore$
+inst/reports
+inst/extdata
