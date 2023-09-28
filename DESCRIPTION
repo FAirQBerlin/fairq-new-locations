@@ -1,6 +1,6 @@
 Package: fairqNewLocations
 Title: FAirQ New Locations
-Version: 22.11.0
+Version: 23.09.0
 Authors@R: 
     c(person("Jan", "Abel", , "jan.abel@inwt-statistics.de", role = c("aut", "cre")),
       person("Mira Celine", "Klein", , "mira.klein@inwt-statistics.de", role = c("aut")))

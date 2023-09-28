@@ -10,7 +10,7 @@ Our selection process was guided by two principal methods:
 
 - Create an .Renviron file in the project folder, see `.Renviron_template` for the structure
 - Build the R package
-- Create database as described in https://github.com/INWT/fairq-data/tree/main/inst/db (schema fairq_raw)
+- Create database as described in https://github.com/fairqBerlin/fairq-data/tree/main/inst/db (schema fairq_raw)
 
 ## Most important files
 
